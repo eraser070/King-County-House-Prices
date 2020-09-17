@@ -34,7 +34,7 @@ yr_renovated - The year of the house’s last renovation
 
 zipcode - What zipcode area the house is in
 
-lat - Lattitude
+lat - Latitude
 
 long - Longitude
 
