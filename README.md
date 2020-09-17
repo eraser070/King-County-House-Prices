@@ -1,7 +1,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Project Overview](#Porject Overview)
+* [Project Overview](#Project Overview)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
