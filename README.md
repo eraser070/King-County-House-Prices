@@ -2,7 +2,7 @@
 ## Table of Contents
 
 * [Project Overview](#Project Overview)
-  * [Built With](#built-with)
+  * [Built With](#built-wi)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
